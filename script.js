@@ -3,8 +3,8 @@ function Dont(){
 }
 
 function dontblink(){
+    
+    
    
 }
-
-document.getElementById("mi_imagen").src = "angel2.jpg";
 
